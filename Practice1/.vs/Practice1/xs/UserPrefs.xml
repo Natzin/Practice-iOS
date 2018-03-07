@@ -2,14 +2,21 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Practice1/Main.storyboard">
     <Files>
       <File FileName="Practice1/Main.storyboard" />
+      <File FileName="Practice1/ViewController.cs" Line="9" Column="59" />
+      <File FileName="Practice1/Main.cs" Line="12" Column="1" />
+      <File FileName="Practice1/CallHistoryController.cs" Line="19" Column="52" />
+      <File FileName="Practice1/CallHistoryController.designer.cs" Line="10" Column="13" />
+      <File FileName="Practice1/ViewController.designer.cs" Line="13" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Practice1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BC209613-6F8C-48B1-825B-F08E8B42DC61" FirstBuild="True">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Practice1/ViewController.cs" line="35" offsetX="1082" offsetY="510" expression="this.Storyboard" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Practice1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.66D96727-DFA3-4E86-895B-91263474D3A8">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.Practice1>
   <MultiItemStartupConfigurations />
