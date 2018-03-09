@@ -1,0 +1,16 @@
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/bin/iPhoneSimulator/Debug/Practice2.exe
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/bin/iPhoneSimulator/Debug/Practice2.pdb
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Storage.pdb
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/obj/iPhoneSimulator/Debug/Practice2.csprojResolveAssemblyReference.cache
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/obj/iPhoneSimulator/Debug/Practice2.csproj.CoreCompileInputs.cache
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/obj/iPhoneSimulator/Debug/Practice2.exe
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/obj/iPhoneSimulator/Debug/Practice2.pdb
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/actool/_PartialAppManifest.items
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/coremlc/_PartialAppManifest.items
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/MiguelPerez/Documents/Practice iOS/Practice-iOS/Practice2/Practice2/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/

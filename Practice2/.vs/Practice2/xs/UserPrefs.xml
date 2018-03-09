@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{0A8F5024-FED4-47D7-8771-06E2B13B03BB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practice2/ViewController.cs">
+    <Files>
+      <File FileName="Practice2/ViewController.cs" Line="129" Column="40" />
+      <File FileName="Practice2/ViewController.designer.cs" Line="38" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Practice2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.66D96727-DFA3-4E86-895B-91263474D3A8">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Practice2>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../Practice1/Practice1/ViewController.cs" line="35" offsetX="1082" offsetY="510" expression="this.Storyboard" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>
